@@ -1,0 +1,29 @@
+.home {
+  min-height: 100vh;
+  background: #6b0f1f;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-card {
+  background: #111214;
+  padding: 50px 70px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  border: 2px solid #8b5a0a;
+}
+
+.home-card h1 {
+  color: #ffffff;
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.home-card h3 {
+  color: #d18b07;
+  font-size: 28px;
+  font-weight: 500;
+}

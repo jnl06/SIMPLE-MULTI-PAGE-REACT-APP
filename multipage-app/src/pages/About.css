@@ -1,0 +1,35 @@
+.about {
+  min-height: 100vh;
+  background: #6b0f1f;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-card {
+  background: #111214;
+  padding: 50px 70px;
+  border-radius: 20px;
+  border: 2px solid #8b5a0a;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  max-width: 700px;
+  text-align: center;
+}
+
+.about-card h1 {
+  color: #ffffff;
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+
+.about-card p {
+  color: #f5f5f5;
+  font-size: 20px;
+  line-height: 1.8;
+}
+
+.highlight {
+  color: #d18b07;
+  font-weight: bold;
+}

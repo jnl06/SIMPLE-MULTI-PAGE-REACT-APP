@@ -1,0 +1,41 @@
+.contact {
+  min-height: 100vh;
+  background: #6b0f1f;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}  
+
+.contact-card {
+  background: #111214;
+  padding: 50px 70px;
+  border-radius: 20px;
+  border: 2px solid #8b5a0a;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  width: 450px;
+  text-align: center;
+}
+
+.contact-card h1 {
+  color: white;
+  font-size: 42px;
+  margin-bottom: 30px;
+}
+
+.contact-info {
+  margin-bottom: 20px;
+}
+
+.contact-info h3 {
+  color: #d18b07;
+  margin-bottom: 8px;
+  font-size: 22px;
+}
+
+.contact-info p {
+  color: #f5f5f5;
+  font-size: 18px;
+}
